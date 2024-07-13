@@ -1,2 +1,2 @@
-# sistema-bancario-POO-Python
-Modelando um Sistema Bancário em POO com Python.
+# Sistema Bancário com Programação orientada a objetos (POO) em Python
+Modelando um Sistema Bancário com POO em Python.
