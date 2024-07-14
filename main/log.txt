@@ -1,3 +1,7 @@
 [2024-07-14 09:00:31] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000024703C68460>],) e {}. Retornou None
 [2024-07-14 09:00:46] Função 'criar_conta' executada com argumentos (1, [<__main__.PessoaFisica object at 0x0000024703C68460>], [<__main__.ContaCorrente object at 0x0000024703C73DC0>]) e {}. Retornou None
 [2024-07-14 09:05:49] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('JA', '003')>],) e {}. Retornou None
+[2024-07-14 11:00:42] Função 'criar_cliente'executada com argumentos ([<PessoaFisica: ('JA', '001')>],) e {}.Retornou None
+[2024-07-14 11:00:50] Função 'exibir_extrato'executada com argumentos ([<PessoaFisica: ('JA', '001')>],) e {}.Retornou None
+[2024-07-14 11:00:56] Função 'criar_conta'executada com argumentos (1, [<PessoaFisica: ('JA', '001')>], [<__main__.ContaCorrente object at 0x0000013560971DC0>]) e {}.Retornou None
+[2024-07-14 11:01:01] Função 'exibir_extrato'executada com argumentos ([<PessoaFisica: ('JA', '001')>],) e {}.Retornou None
