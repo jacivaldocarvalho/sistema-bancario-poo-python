@@ -6,9 +6,9 @@
 - [Como Usar](#como-usar)
 - [Exemplo de Saída Esperada](#exemplo-de-saída-esperada)
 - [Pré-Requisitos](#pré-requisitos)
-- [Contribua](#contribua)
+- [Contribua](#contribuições)
 - [Licença](#licença)
-- [Contato e Network](#contato-e-network)
+- [Contato e Network](#contatos-e-network)
 
 
 ## Descrição
