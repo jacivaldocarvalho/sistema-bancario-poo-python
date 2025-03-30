@@ -41,7 +41,7 @@ A abordagem orientada a objetos facilita a manutenção e expansão do sistema, 
 ### 3. **Execute o Código**
    Após clonar o repositório e garantir que o Python esteja instalado, abra o terminal ou prompt de comando e navegue até o diretório do repositório clonado. Em seguida, execute o script com o seguinte comando:
    ```bash
-   python sistema_bancario.py
+   python Sistema_Bancario_POO_Python.py
    ```
 
 ### 4. **Menu Interativo**
